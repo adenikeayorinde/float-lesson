@@ -1,5 +1,7 @@
 img{
     float: left;
+    border-radius: 100px;
+    border-style: dashed;
 }
 .sidebar {
     width: 30%;
@@ -11,5 +13,6 @@ img{
   width: 300px;
   float: left;
   }
+
 
 
